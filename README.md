@@ -17,6 +17,11 @@
 
 
 
-#####  Geradorenciador de Senha ####
+#####  Gerenciador de Senha ####
 
 <img src="./PNG/PhotoProjetct/Gerenciador.png"/>
+
+#### Créditos de fonte de código ###
+
+https://github.com/lndsilva
+ Fóruns da Web
