@@ -3,20 +3,20 @@
 
 #####  Tela de Carregamento ####
 
-<img src="./PNG/PhotoProject/splash.png"/>
+<img src=".//PNG/PhotoProject/splash.png"/>
 
 
 #####  Gerador de Senha ####
 
-<img src="./PNG/PhotoProject/Gerador.png"/>
+<img src=".//PNG/PhotoProject/Gerador.png"/>
 
 
 #####  Tela de Login para acesso de senhas ####
 
-<img src="./PNG/PhotoProject/Login.png"/>
+<img src=".//PNG/PhotoProject/Login.png"/>
 
 
 
 #####  Geradorenciador de Senha ####
 
-<img src="./PNG/PhotoProject/Gerenciador.png"/>
+<img src=".//PNG/PhotoProject/Gerenciador.png"/>
